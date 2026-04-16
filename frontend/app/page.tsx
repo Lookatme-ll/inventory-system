@@ -100,7 +100,7 @@ export default async function HomePage() {
   return (
     <div className="space-y-6">
       <div>
-        <h2 className="text-2xl font-semibold">首页概览</h2>
+        <h2 className="text-2xl font-semibold">首页概览 - DEPLOY TEST</h2>
         <p className="text-sm text-gray-600">
           查看当前系统的核心数据概况与最近操作记录。
         </p>
